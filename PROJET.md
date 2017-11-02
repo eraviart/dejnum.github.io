@@ -6,7 +6,7 @@ Nous proposons d'organiser chaque mois, un meeting en milieu de journée pour di
 
 ### 5 OBJECTIFS
 
-1- Développer dans une salle accessible au public (25 personnes max), une réflexion intellectuelle de longue durée sur des thèmes politiques liés à la technique en s'inspirant des [https://cyber.harvard.edu/events/luncheon](Digital Luncheon) du Berkman Klein Center et des [Hackerspaces](https://wiki.hackerspaces.org/Hackerspaces) plutôt que du temps court des médias sociaux et des métaphores accélérationnistes.
+1- Développer dans une salle accessible au public (25 personnes max), une réflexion intellectuelle de longue durée sur des thèmes politiques liés à la technique en s'inspirant des [Digital Luncheon](https://cyber.harvard.edu/events/luncheon) du Berkman Klein Center et des [Hackerspaces](https://wiki.hackerspaces.org/Hackerspaces) plutôt que du temps court des médias sociaux et des métaphores accélérationnistes.
 
 2- S'appuyer sur le socle d'un lieu où il est encore possible de prendre le temps de réfléchir à plusieurs, de confronter sereinement des perspectives différentes, de manière apaisée.
 
