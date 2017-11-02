@@ -1,8 +1,8 @@
-Déjeuners numériques
+Déjeuners numériques: chaque mois, un mot numérique décrypté.
 
 ### OBJET
 
-Nous proposons d'organiser chaque mois, un meeting en milieu de journée pour discuter des enjeux mêlant technique et société, en petit comité mais ouvert au public notamment via IRC et dont le contenu sera retransmis en vidéo et la documentation partagée.
+Nous proposons d'organiser chaque mois, un meeting en milieu de journée pour discuter des enjeux mêlant technique et société, en petit comité mais ouvert au public notamment via IRC et dont le contenu sera retransmis en vidéo et la documentation partagée. Chaque meeting sera l'occasion de discuter d'un **mot** du numérique, et ainsi constituer lentement un petit lexique.
 
 ### 5 OBJECTIFS
 
