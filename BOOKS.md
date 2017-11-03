@@ -28,21 +28,21 @@ Des livres et ressources sur les mots et la politique.
 > This report is an attempt to comprehensively examine information disorder and its related challenges, such as filter bubbles and echo chambers. While the historical impact of rumours and fabricated content have been well documented, we argue that contempor ary social technology means that we are witnessing something new: information pollution at a global scale; a complex web of motivations for creating, disseminating and consuming these ‘polluted’ messages; a myriad of content types and techniques for amplifying content; innumerable platforms hosting and reproducing this content; and breakneck speeds of communication between trusted peers.
 
 > To effectively tackle the problems of mis-, dis- and mal-information, we need to work together on the following fronts:
-> * 1. Definitions.
+> 1. Definitions.
 > Think more critically about the language we use so we can effectively capture the complexity of the phenomenon;
-> * 2. Implications for democracy.
+> 2. Implications for democracy.
 > Properly investigate the implications for democracy when false or misleading information circulates online;
-> * 3. Role of television.
+> 3. Role of television.
 > Illuminate the power of the mainstream media, and in particular television, in the dissemination and amplification of poor-quality information that originates online;
-> * 4. Implications of weakened local media.
+> 4. Implications of weakened local media.
 > Understand how the collapse of local journalism has enabled mis-and dis-information to take hold, and find ways to support local journalism;
-> * 5. Micro-targeting.
+> 5. Micro-targeting.
 > Discern the scale and impact of campaigns that use demographic profiles and online behavior to micro-target fake or misleading information
-> * 6. Computational amplification.
+> 6. Computational amplification.
 > Investigate the extent to which influence is bought through digital **‘astroturfing’**—the use of bots and cyborgs to manipulate the outcome of online petitions, change search engine results and boost certain messages on social media;
-> * 7. Filter bubbles and echo chambers.
+> 7. Filter bubbles and echo chambers.
 > Consider the implications of the filter bubbles and echo chambers that have emerged because of media fragmentation, both offline (mediated via partisan talk radio and cable news) and online (mediated via hyper-partisan websites, algorithmically derived feeds on social networks and radical communities on WhatsApp, Reddit and 4chan.)
-> * 8. Declining trust in evidence.
+> 8. Declining trust in evidence.
 > Understand the implications of different communities failing to share a sense of reality based on facts and expertise.
 
 > In this report, we refrain from using the term ‘fake news’, for two reasons. First, it is woefully inadequate to describe the complex phenomena of information pollution. The term has also begun to be appropriated by politicians around the world to describe news organisations whose coverage they find disagreeable. In this way, it’s becoming a mechanism by which the powerful can clamp down upon, restrict, undermine and circumvent the free press. We therefore introduce a new conceptual framework for examining information disorder, identifying the three different types: mis-, dis- and mal-information. 
