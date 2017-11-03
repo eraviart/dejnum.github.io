@@ -6,4 +6,4 @@ Chaque mois, un déjeuner pour préciser les contours d'un **mot** du numérique
 * Des [livres](BOOKS.md) sur les mots et la politique.
 
 ---
-[english version](/en/READMEen.md).
+[English version](/en/READMEen.md).
