@@ -12,6 +12,6 @@ We propose to organise each month, a meeting at lunchtime to discuss of the inte
 
 3. Allowing non-professionals of politics to perpetuate free discussion, in the respect of the originality of their thinking, and in the context of public resonance (pseudonymous participation via IRC, live video streaming of events, real-time production of a shared collaborative documentation)
 
-4. Dynamically regulate the program of the place by providing from the beginning a 'soft' thematic framework that could then be redefined by the governance of the project (place, initiators) but also by contributors like in the [Nomic](http://fr.wikipedia.org/wiki/Nomic) system.
+4. Dynamically regulate the program of the place by providing from the beginning a 'soft' thematic framework that could then be redefined by the governance of the project (place, initiators) but also by contributors like in the [Nomic](http://en.wikipedia.org/wiki/Nomic) system.
 
 5. Producing free software and technical systems associated with these reflections, in a logic of collaborative contribution, sharing source codes and documentation via a [public GIT account](https://dejnum.github.io/).
