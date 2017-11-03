@@ -3,7 +3,7 @@
 Every month, a lunch in order to outline one digital **word**.
 
 * Detailed presentation of the [project](PROJETen.md).
-* Some [books](BOOKSen.md) son words and politics.
+* Some [books](BOOKSen.md) on words and politics.
 
 ---
 [French version](../README.md).
