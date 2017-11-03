@@ -1,4 +1,4 @@
-Books related to words in politics
+Des livres et ressources sur les mots et la politique.
 
 ### **Les mots verts**, pour une écologie du langage // Noel Mamère et Stéphanie Bonefille // L'aube, 2016
 
