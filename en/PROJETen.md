@@ -2,7 +2,7 @@ Digital luncheons: each month, a digital word decyphered.
 
 ### MISSION
 
-We propose to organise each month, a meeting at lunchtime to discuss of the intersection betwteen technique & society. Opened to the public physically and via IRC, all the content is streamed in video and documentation shared.
+We propose to organise each month, a meeting at lunchtime to discuss of the intersection betwteen technique & society. Opened to the public physically and via IRC, all the content is streamed in video and documentation shared. In each meeting we discuss about one digital **word**, slowly constituting a little lexicon.
 
 ### 5 GOALS
 
