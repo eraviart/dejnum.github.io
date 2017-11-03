@@ -1,4 +1,4 @@
-Digital luncheons
+Digital luncheons: each month, a digital word decyphered.
 
 ### MISSION
 
