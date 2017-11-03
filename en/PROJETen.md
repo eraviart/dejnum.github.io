@@ -6,7 +6,7 @@ We propose to organise each month, a meeting at lunchtime to discuss of the inte
 
 ### 5 GOALS
 
-1. Developping, in a room accessible to the public (25 persons max), long term intellectual reflections on political topics linked with technology, inspired by [https://cyber.harvard.edu/events/luncheon](Digital Luncheon) from Berkman Klein Center and [Hackerspaces](https://wiki.hackerspaces.org/Hackerspaces) contrasting with the short time of social media and accelerationist metaphors.
+1. Developping, in a room accessible to the public (25 persons max), long term intellectual reflections on political topics linked with technology, inspired by [Digital Luncheon](https://cyber.harvard.edu/events/luncheon) from Berkman Klein Center and [Hackerspaces](https://wiki.hackerspaces.org/Hackerspaces) contrasting with the short time of social media and accelerationist metaphors.
 
 2. Leaning on the values of a place where it is still possible to take time to think together, confronting different perspectives, in a peaceful way.
 
