@@ -1,4 +1,4 @@
-<a name="s1"></a>SESSION #0 - **NUMERIQUE - Vendredi 28 Juin 2019 - Sénat, 77 rue Bonaparte 75006 Paris**
+<a name="s1"></a>SESSION #0 - **NUMERIQUE - Vendredi 28 Juin 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
 
 Inscription: [https://forum.en-root.org/t/journee-atelier-au-senat/26](https://forum.en-root.org/t/journee-atelier-au-senat/26)
 
