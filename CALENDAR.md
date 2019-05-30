@@ -1,4 +1,4 @@
-<a name="pookie"></a> ** Vendredi 28 Juin 2019 - Penser le numérique - 77 rue Bonaparte 75006 Paris**
+<a name="pookie"></a> **Vendredi 28 Juin 2019 - Penser le numérique - 77 rue Bonaparte 75006 Paris**
 
 Inscription: https://forum.en-root.org/t/journee-atelier-au-senat/26
 
