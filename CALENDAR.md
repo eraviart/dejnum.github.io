@@ -8,4 +8,4 @@ A partir de ces exemples, nous examinerons différents types de pensées numéri
 
 Documentation et liens sur le PAD: [https://annuel.framapad.org/p/ykvT5eUndB](https://annuel.framapad.org/p/ykvT5eUndB)
 
-Streaming TBA
+📽️ Streaming TBA
