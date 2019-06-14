@@ -7,3 +7,5 @@ Le thème de cette première session est un état des lieux de la pensée intell
 A partir de ces exemples, nous examinerons différents types de pensées numériques francophones, médiatiques, universitaires, praticiennes et alternatives, notamment par rapport à leurs équivalents dans le monde. Nous discuterons ensemble des différences et des spécificités des manières de penser le numérique en France, et de l'impact de ces théories et enquêtes hors de leurs contextes d'origine, notamment dans la sphère publique, au parlement et dans les médias.
 
 Documentation et liens sur le PAD: [https://annuel.framapad.org/p/ykvT5eUndB](https://annuel.framapad.org/p/ykvT5eUndB)
+
+Streaming TBA
